@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HDR-frontend/static/css/main.2c8c6c05.chunk.css",
+    "main.js": "/HDR-frontend/static/js/main.02c17445.chunk.js",
+    "main.js.map": "/HDR-frontend/static/js/main.02c17445.chunk.js.map",
+    "runtime-main.js": "/HDR-frontend/static/js/runtime-main.7c0f3fa0.js",
+    "runtime-main.js.map": "/HDR-frontend/static/js/runtime-main.7c0f3fa0.js.map",
+    "static/js/2.07e1b818.chunk.js": "/HDR-frontend/static/js/2.07e1b818.chunk.js",
+    "static/js/2.07e1b818.chunk.js.map": "/HDR-frontend/static/js/2.07e1b818.chunk.js.map",
+    "static/js/3.403d36e0.chunk.js": "/HDR-frontend/static/js/3.403d36e0.chunk.js",
+    "static/js/3.403d36e0.chunk.js.map": "/HDR-frontend/static/js/3.403d36e0.chunk.js.map",
+    "index.html": "/HDR-frontend/index.html",
+    "static/css/main.2c8c6c05.chunk.css.map": "/HDR-frontend/static/css/main.2c8c6c05.chunk.css.map",
+    "static/js/2.07e1b818.chunk.js.LICENSE.txt": "/HDR-frontend/static/js/2.07e1b818.chunk.js.LICENSE.txt",
+    "static/media/logo.0f9928c0.jpg": "/HDR-frontend/static/media/logo.0f9928c0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c0f3fa0.js",
+    "static/js/2.07e1b818.chunk.js",
+    "static/css/main.2c8c6c05.chunk.css",
+    "static/js/main.02c17445.chunk.js"
+  ]
+}
