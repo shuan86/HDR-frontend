@@ -1,0 +1,71 @@
+.enroll-wrapper{
+    width: 100%;
+    margin: 0 auto;
+}
+.enroll-form{
+    margin-top: 20px;
+    width: 495px;
+    height: 645px;
+    background: #FFFFFF;
+    border: 1px solid rgba(124, 133, 137, 0.25);
+    box-sizing: border-box;
+    box-shadow: 1px 1px 7px rgba(175, 196, 210, 0.25);
+    border-radius: 12px;
+    padding: 46px 60px;
+}
+.enroll-form-icon{
+    display:inline-block;
+}
+.enroll-form-account{
+    margin-top: 78px;
+    
+}
+.enroll-form-password
+,.enroll-form-repassword
+,.enroll-form-email
+,.enroll-form-key{
+    margin-top: 32px;
+}
+.enroll-form-account
+,.enroll-form-password
+,.enroll-form-repassword
+,.enroll-form-email
+,.enroll-form-key
+{
+    border-bottom: 1px solid #7C8589;
+    box-shadow: 0px 1px 1px rgba(112, 45, 45, 0.25);
+}
+
+
+.enroll-form h1{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+
+    color: #335284;
+}
+.enroll-form input{
+    display:inline-block;
+    border:0;
+    width: 320px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 21px;
+    align-items: center;
+    color: #AFC4D2;
+    margin-left: 18px;
+}
+.enroll-form button{
+    width: 368px;
+    height: 40px;
+    background: #335284;
+    border-radius: 10px;
+    color: #EFF4FF;
+    margin-top: 82px;
+
+}

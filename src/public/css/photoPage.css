@@ -1,0 +1,221 @@
+.photo-page-wrapper{
+    width: 100%;
+    /* margin: 0 auto; */
+}
+.photo-page-wrapper>h1{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+    color:#335284
+}
+.photo-page-info{
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.photo-page-info p{
+    margin:0px 0px
+}
+.photo-page-title{
+    margin-left: 8px;
+}
+.photo-page-title p:nth-child(1){
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #7C8589;
+}
+.photo-page-title p:nth-child(2){
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    color: #AFC4D2;
+}
+.photo-page-place{
+    margin-left: 38px;
+}
+.photo-page-place p{
+    display: inline-block;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 15px;
+    color: rgba(124, 133, 137, 0.8);
+    margin-left: 4px;
+}
+.photo-page-icon{
+    display: inline-block;
+}
+.photo-page-like{
+    margin-left: 290px;
+}
+.photo-page-like p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #335284; 
+    margin-left: 4px;
+    display: inline-block;
+   
+}
+.photo-page-hdr{
+    display: flex;
+    justify-content: flex-start;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    gap: 48px;
+}
+
+
+/* .photo-page-photo,.photo-page-parameter{
+    display: inline-block;
+} */
+.photo-page-photo {
+   /* width: 600px; */
+   /* max-width: 600px; */
+   /* height: 100%;
+   width: 65%; */
+   height: 400px;
+   width: 600px;
+   border:1px black solid;
+}
+.photo-page-photo img{
+    width: 100%;
+    height: 100%;
+  
+}
+.photo-page-parameter{
+    display: inline-block;
+    width: 350px;
+    /* margin-left: 48px; */
+}
+
+.photo-page-parameter>p{
+    display: inline-block;
+
+}
+.parameters{
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    color: #393E41;
+}
+.photo-page-comment{
+    width: 600px;
+
+}
+.photo-page-input-area>*{
+    display:inline-block;
+}
+.photo-page-input-title>*{
+    display:inline-block;
+}
+.photo-page-input-title>h1{
+  margin-left: 14px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+
+    letter-spacing: 0.25em;
+    color: #335284;
+}
+
+.photo-page-input{
+    margin-left: 14px;
+    background: #FFFFFF;
+    border: 0.1em solid #AFC4D2;
+    box-sizing: border-box;
+    border-radius: 15px;
+    padding: 10px 10px;
+}
+.photo-page-input>input{
+    border: 0px;
+    width: 480px;
+    outline: none;
+}
+.photo-page-input>button{
+    background: #AFC4D2;
+    border-radius: 6px;
+    color: #FFFFFF;
+}
+.photo-page-user-info>*{
+    display: inline-block;
+    color:#335284;
+    margin:0 0 
+}
+.photo-page-user-info>p:nth-child(2){
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21px;
+    color: #335284;
+    margin-left: 12px;
+}
+.photo-page-user-info>p:nth-child(3){
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+    color: #7C8589;
+    margin-left: 24px;
+
+}
+.photo-page-user-content>*{
+    display: inline-block;
+
+}
+.photo-page-user-content>p:nth-child(1){
+    margin-left: 25px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+    color: #393E41;
+}
+.photo-page-user-content>.photo-page-icon:nth-child(2){
+    margin-left: 100px;
+    color: #AFC4D2;
+}
+.photo-page-user-content>p:nth-child(3){
+    margin-left: 10px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+    color: #7C8589;
+}
+.photo-page-user-content>.photo-page-icon:nth-child(4){
+    margin-left: 30px;
+    color: #AFC4D2;
+}
+.photo-page-user-content>p:nth-child(5){
+    margin-left: 10px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    color: #7C8589;
+}
+.photo-page-icon{
+    color: #335284;
+}

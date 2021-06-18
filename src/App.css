@@ -1,0 +1,21 @@
+.app {
+  margin: 0 auto ;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 2fr 4fr  2fr;
+  grid-template-rows: auto 800px auto;
+  /* justify-items:center */
+}
+.nav{
+  grid-area:1 /2/2/3 ;
+  margin: 0 auto ;
+}
+
+.main{
+    grid-area:2 /2/3/3 ;
+    margin: 0 auto ;
+
+}
+.disapper{
+  display: none;
+}

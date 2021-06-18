@@ -1,0 +1,39 @@
+.home-wrapper{
+    width: 100%;
+    margin: 0 auto;
+}
+.home-filter{
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+    font-family: Poppins;
+    margin-top: 60px;
+}
+.home-filter select{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.15em;
+    color: #393E41;
+    border:0
+}
+.photos{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content:stretch;
+}
+.photos-column2,.photos-column3{
+   
+    margin-left: 50px;
+    flex-basis: 300px ;
+    /* flex-grow: 1 */
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content:stretch; */
+}

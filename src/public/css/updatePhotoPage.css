@@ -1,0 +1,81 @@
+.update-photo-wrapper{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 96px;
+}
+.update-photo-area{
+    background: #FFFFFF;
+    border: 8px solid #AFC4D2;
+    box-sizing: border-box;
+    border-radius: 30px;
+    width: 460px;
+    height: 460px;
+    padding: 115px 96px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #7C8589;
+    cursor: pointer;
+}
+.update-photo-parameter{
+    width: 440px;
+    margin-left: 70px;
+}
+.update-photo-parameter button{
+  margin-left: 83%;
+  background: #335284;
+    border-radius: 6px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-top: 35px;
+}
+.update-photo-filter h1:nth-child(1),h1:nth-child(2){
+   display: inline-block;
+   font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    margin: 0px  0px ;
+    cursor: pointer;
+}
+.update-photo-filter h1:nth-child(2){
+   margin-left: 68px;
+}
+
+.update-photo-gray{
+    color: rgba(124, 133, 137, 0.5);
+
+}
+.update-photo-blue{
+    color: #335284;
+ 
+}
+.update-photo-information p,.update-photo-hdr p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #335284;
+    margin: 5px 0px;
+}
+.update-photo-information input,.update-photo-hdr input{
+    width: 440px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 1px solid rgba(124, 133, 137, 0.5);
+    box-sizing: border-box;
+    box-shadow: 0px 0px 4px rgba(124, 133, 137, 0.25);
+    border-radius: 6px;
+}
+.update-photo-description{
+    height: 75px;
+}

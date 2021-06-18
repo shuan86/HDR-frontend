@@ -1,0 +1,41 @@
+.photo-card{
+    position: relative; 
+    width: 300px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.photo-card-img{
+    /* position: relative;
+    top:0 */
+}
+.photo-card-footer{
+    position: absolute;
+    bottom: 0px;
+    height: 50px;
+    width: 100%;
+    background-color: rgba(57, 62, 65, 0.8);
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.25em;
+    color: #FFFFFF;
+    justify-content: flex-start;
+}
+.photo-card-footer h2:nth-child(1){
+    margin-left: 22px;
+}
+.photo-card-icon1{
+    margin-left: 53px;
+}
+.photo-card-place, .photo-card-like{
+    margin-left: 11px;
+}
+.photo-card-icon2{
+    margin-left: 25px;
+}
+
