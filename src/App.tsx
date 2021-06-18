@@ -1,15 +1,18 @@
 import React from 'react';
 import { Nav } from './components/Nav'
 import './App.css';
+import './public/css/reset.css';
+
 import { HomePage } from "./views/HomePage";
 import { LoginPage } from "./views/LoginPage";
 import { EnrollPage } from "./views/EnrollPage";
 import { PhotoPage } from "./views/PhotoPage";
 import { UpdatePhotoPage } from "./views/UpdatePhotoPage";
-import { Link, HashRouter, Switch, Route } from 'react-router-dom'
+import { Link, HashRouter, BrowserRouter, Switch, Route } from 'react-router-dom'
 function App() {
+
   return (
-    <HashRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <div className="app">
 
         <div className="nav">
@@ -28,7 +31,7 @@ function App() {
 
         </div>
       </div>
-    </HashRouter>
+    </BrowserRouter>
   );
 }
 
