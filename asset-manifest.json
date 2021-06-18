@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://shuan86.github.io/HDR-frontend/static/css/main.2c8c6c05.chunk.css",
-    "main.js": "https://shuan86.github.io/HDR-frontend/static/js/main.7c473034.chunk.js",
-    "main.js.map": "https://shuan86.github.io/HDR-frontend/static/js/main.7c473034.chunk.js.map",
-    "runtime-main.js": "https://shuan86.github.io/HDR-frontend/static/js/runtime-main.9d2bab2e.js",
-    "runtime-main.js.map": "https://shuan86.github.io/HDR-frontend/static/js/runtime-main.9d2bab2e.js.map",
+    "main.css": "https://shuan86.github.io/HDR-frontend/static/css/main.9ad2fd74.chunk.css",
+    "main.js": "https://shuan86.github.io/HDR-frontend/static/js/main.cb719992.chunk.js",
+    "main.js.map": "https://shuan86.github.io/HDR-frontend/static/js/main.cb719992.chunk.js.map",
+    "runtime-main.js": "https://shuan86.github.io/HDR-frontend/static/js/runtime-main.c89404ec.js",
+    "runtime-main.js.map": "https://shuan86.github.io/HDR-frontend/static/js/runtime-main.c89404ec.js.map",
     "static/js/2.2ec244c0.chunk.js": "https://shuan86.github.io/HDR-frontend/static/js/2.2ec244c0.chunk.js",
     "static/js/2.2ec244c0.chunk.js.map": "https://shuan86.github.io/HDR-frontend/static/js/2.2ec244c0.chunk.js.map",
-    "static/js/3.403d36e0.chunk.js": "https://shuan86.github.io/HDR-frontend/static/js/3.403d36e0.chunk.js",
-    "static/js/3.403d36e0.chunk.js.map": "https://shuan86.github.io/HDR-frontend/static/js/3.403d36e0.chunk.js.map",
+    "static/js/3.875db4e8.chunk.js": "https://shuan86.github.io/HDR-frontend/static/js/3.875db4e8.chunk.js",
+    "static/js/3.875db4e8.chunk.js.map": "https://shuan86.github.io/HDR-frontend/static/js/3.875db4e8.chunk.js.map",
     "index.html": "https://shuan86.github.io/HDR-frontend/index.html",
-    "static/css/main.2c8c6c05.chunk.css.map": "https://shuan86.github.io/HDR-frontend/static/css/main.2c8c6c05.chunk.css.map",
+    "static/css/main.9ad2fd74.chunk.css.map": "https://shuan86.github.io/HDR-frontend/static/css/main.9ad2fd74.chunk.css.map",
     "static/js/2.2ec244c0.chunk.js.LICENSE.txt": "https://shuan86.github.io/HDR-frontend/static/js/2.2ec244c0.chunk.js.LICENSE.txt",
     "static/media/logo.0f9928c0.jpg": "https://shuan86.github.io/HDR-frontend/static/media/logo.0f9928c0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d2bab2e.js",
+    "static/js/runtime-main.c89404ec.js",
     "static/js/2.2ec244c0.chunk.js",
-    "static/css/main.2c8c6c05.chunk.css",
-    "static/js/main.7c473034.chunk.js"
+    "static/css/main.9ad2fd74.chunk.css",
+    "static/js/main.cb719992.chunk.js"
   ]
 }
