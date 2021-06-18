@@ -2,7 +2,7 @@
   margin: 0 auto ;
   width: 100%;
   display: grid;
-  grid-template-columns: 2fr 4fr  2fr;
+  grid-template-columns: 1fr 4fr  1fr;
   grid-template-rows: auto 800px auto;
   /* justify-items:center */
 }
